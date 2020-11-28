@@ -25,7 +25,7 @@
 
 ##### [박찬웅](https://github.com/bara200409)
 
-##### [백영대](https://github.com/작성중)
+###### [백영대](https://github.com/작성중)
 
 ##### [이예흠](https://github.com/leeyegma)
 
@@ -33,5 +33,5 @@
 
 ##### [채예린](https://github.com/작성중)
 
-##### 최경진
+###### 최경진
 
